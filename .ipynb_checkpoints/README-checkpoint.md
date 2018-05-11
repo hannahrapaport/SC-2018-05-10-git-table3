@@ -6,6 +6,3 @@ A git learning example
 ## Making stone soup:
 
 1. Put a pot of water on a campfire
-
-
-CHECK THAT THIS HAS SAVED
